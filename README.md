@@ -13,25 +13,24 @@ My only disclaimer is that I did not have enough time to properly visualize my d
 Tools and Data Source Rundown:
 
 Data Sources:
-Speedrun.com API
-Youtube.com (scraped)
-Twitch.tv (scraped)
+  - Speedrun.com API
+  - Youtube.com (scraped)
+  - Twitch.tv (scraped)
 
 Web Scraping Tools:
-Selenium + ChromeDriver (for Twitch)
-Beautiful Soup (for Youtube)
+ - Selenium + ChromeDriver (for Twitch)
+ - Beautiful Soup (for Youtube)
 
 Analysis:
-Pandas
-Numpy
-SciKitLean
+  - Pandas
+  - Numpy
+  - SciKitLean
 
 Data Viz:
-Matplotlib
+  - Matplotlib
 
 Models:
-Logistic Regression
-GradientBoost
-RandomForestClassifier
-StackingClassifier (with Random Forests as the blender estimator)
-
+  - Logistic Regression
+  - GradientBoostClassifier
+  - RandomForestClassifier
+  - StackingClassifier (with Random Forests as the blender estimator)
